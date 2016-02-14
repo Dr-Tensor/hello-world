@@ -1,4 +1,4 @@
 # hello-world
 Just another repository!
 
-I you'r reading this it's probabily because you have even more to then me, and that's saying some thing!
+If you're reading this it's probabily because you have even less of a life to then me, and that's saying some thing!
